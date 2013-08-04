@@ -15,6 +15,7 @@
 	  [hiccup "1.0.4"]
     [com.datomic/datomic-free "0.8.4020.24"]
     [datomico "0.2.0"]
+    [clojurewerkz/neocons "1.1.0"]
     [com.novemberain/monger "1.6.0"]
     [org.clojure/java.jdbc "0.3.0-alpha4"]
     [postgresql/postgresql "9.0-801.jdbc4"]

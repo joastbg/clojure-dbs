@@ -41,7 +41,7 @@
            ; Any additional keys are passed to the driver
            ; as driver-specific properties.
            :user "postgres"
-           :password "windows311"}))
+           :password "secure-password"}))
 
 (defn postgresql-insert []
 	(j/insert! db :persons 
